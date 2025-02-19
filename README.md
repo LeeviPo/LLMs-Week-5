@@ -40,4 +40,6 @@ ft_model = PeftModel.from_pretrained(
 )
 ```
 
-
+## HF model
+The fine-tuned model can be found on [Hugging Face](https://huggingface.co/L-e-e-v-i/phi-2-dialogsum-finetuned)
+![Image of HF model](https://media.discordapp.net/attachments/598442673665474581/1341795167853613157/image.png?ex=67b74ba1&is=67b5fa21&hm=61a3d82e7e5ba965f14d3b108ee6e5ae9fa9dbcccc159c9e0ecf5062e769ed66&=&format=webp&quality=lossless&width=2268&height=442)
